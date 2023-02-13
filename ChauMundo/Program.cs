@@ -12,7 +12,7 @@ namespace ChauMundo
         {
             Console.ReadKey();
             Console.WriteLine("Chau mundo");
-            Console.Read();
+            Console.ReadKey();
         }
     }
 }
